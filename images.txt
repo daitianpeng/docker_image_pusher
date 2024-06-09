@@ -4,3 +4,4 @@ python:alpine3.19
 lstcml/oray
 hushunxu/qinglong_base:2.10.13
 whyour/qinglong:2.11.3
+lstcml/oray
