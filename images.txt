@@ -1,8 +1,7 @@
 alpine
 kasmweb/nginx:1.25.3
 python:alpine3.19
-hushunxu/qinglong_base:2.10.13
-whyour/qinglong:2.11.3
 tznb/oray
 mzz2017/v2raya
 messense/aliyundrive-webdav
+yanyuwangluo/qinglong:2.11.3
