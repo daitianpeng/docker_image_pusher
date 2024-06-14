@@ -5,3 +5,4 @@ tznb/oray
 mzz2017/v2raya
 messense/aliyundrive-webdav
 yanyuwangluo/qinglong:2.11.3
+jeessy/ddns-go
