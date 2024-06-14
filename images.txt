@@ -7,3 +7,4 @@ messense/aliyundrive-webdav
 yanyuwangluo/qinglong:2.11.3
 jeessy/ddns-go
 linkease/ddnsto
+grbhq/jdx
