@@ -4,8 +4,8 @@ python:alpine3.19
 tznb/oray
 mzz2017/v2raya
 messense/aliyundrive-webdav
-yanyuwangluo/qinglong:2.11.3
-jeessy/ddns-go
+yanyu.icu/whyour/qinglong:2.11.3
 linkease/ddnsto
 grbhq/jdx
 stirlingtools/stirling-pdf
+jeessy/ddns-go
