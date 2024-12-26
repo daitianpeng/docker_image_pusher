@@ -9,3 +9,4 @@ linkease/ddnsto
 grbhq/jdx
 stirlingtools/stirling-pdf
 jeessy/ddns-go
+dsmggm/autojdck
