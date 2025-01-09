@@ -10,3 +10,4 @@ grbhq/jdx
 stirlingtools/stirling-pdf
 jeessy/ddns-go
 dsmggm/autojdck
+chenzhaoyu94/chatgpt-web
